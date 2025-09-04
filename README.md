@@ -1,1 +1,0 @@
-# Multimodal_RAG_Pipeline-Text-Tables-Images
